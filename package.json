@@ -1,0 +1,13 @@
+{
+  "name": "dx-best-practices",
+  "version": "1.0.0",
+  "description": "DXのベストプラクティスガイド",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
+
