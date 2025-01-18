@@ -1,0 +1,63 @@
+[
+  {
+    "name": "コンテナオーケストレーション",
+    "category": "インフラストラクチャ",
+    "description": "Kubernetes、OpenShift、Amazon EKSなどを使用して、マイクロサービスの効率的なデプロイと管理を実現します。"
+  },
+  {
+    "name": "サーバーレスコンピューティング",
+    "category": "インフラストラクチャ",
+    "description": "AWS Lambda、Azure Functions、Google Cloud Functionsなどを活用し、インフラ管理の負荷を軽減しつつ、スケーラブルなアプリケーション開発を行います。"
+  },
+  {
+    "name": "データレイク・データウェアハウス",
+    "category": "データ活用",
+    "description": "Amazon S3 + Athena、Google BigQuery、Snowflakeなどを使用して、大規模データの効率的な保存と分析を行います。"
+  },
+  {
+    "name": "ストリームデータ処理",
+    "category": "データ活用",
+    "description": "Apache Kafka、Apache Flink、AWS Kinesisなどを使用して、リアルタイムデータ処理とイベント駆動アーキテクチャを実現します。"
+  },
+  {
+    "name": "機械学習オペレーション（MLOps）",
+    "category": "AI・機械学習",
+    "description": "MLflow、Kubeflow、SageMaker MLOpsなどのツールを使用して、機械学習モデルの開発、デプロイ、モニタリングのライフサイクル管理を自動化します。"
+  },
+  {
+    "name": "エッジAI",
+    "category": "AI・機械学習",
+    "description": "TensorFlow Lite、ONNX Runtime、NVIDIA Jetson等を活用し、エッジデバイスでの効率的な機械学習モデルの実行を実現します。"
+  },
+  {
+    "name": "API管理プラットフォーム",
+    "category": "アプリケーション開発",
+    "description": "Apigee、Kong、AWS API Gatewayなどを使用して、APIのライフサイクル管理、セキュリティ、モニタリングを一元化します。"
+  },
+  {
+    "name": "サービスメッシュ",
+    "category": "アプリケーション開発",
+    "description": "Istio、Linkerd、Consul Connectなどを導入し、マイクロサービス間の通信を最適化、セキュア化、可視化します。"
+  },
+  {
+    "name": "Infrastructure as Code (IaC)",
+    "category": "DevOps",
+    "description": "Terraform、AWS CloudFormation、Ansible等を使用して、インフラストラクチャのプロビジョニングと管理を自動化します。"
+  },
+  {
+    "name": "継続的インテグレーション/継続的デリバリー (CI/CD)",
+    "category": "DevOps",
+    "description": "Jenkins、GitLab CI/CD、GitHub Actions等を活用し、ソフトウェア開発のビルド、テスト、デプロイを自動化します。"
+  },
+  {
+    "name": "オブザーバビリティプラットフォーム",
+    "category": "運用・監視",
+    "description": "Prometheus、Grafana、Elastic Stack (ELK)、Datadog等を使用して、システムの包括的な監視、ログ分析、パフォーマンス最適化を実現します。"
+  },
+  {
+    "name": "セキュリティオーケストレーション・自動化・対応 (SOAR)",
+    "category": "セキュリティ",
+    "description": "Splunk Phantom、IBM Resilient、Palo Alto Networks Cortex XSOAR等を導入し、セキュリティインシデントの検出、分析、対応を自動化します。"
+  }
+]
+
